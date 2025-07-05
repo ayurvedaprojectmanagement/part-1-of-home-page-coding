@@ -1,9 +1,9 @@
 # Part 1 of Home Page Coding
 
-## Web
+## 1. Web
 
-## Google Play
+## 2. Google Play
 
-## Windows
+## 3. Windows
 
-## Epic Games Store
+## 4. Epic Games Store
