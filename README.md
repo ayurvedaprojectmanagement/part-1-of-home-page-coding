@@ -2,7 +2,8 @@
 
 ## 1. Web
 - ### 1.1 Forum
-  - #### 1.2 Flaruim
+  - #### 1.1.2 Flaruim
+- ### 1.2 Homepage
 
 ## 2. Google Play
 - ### 2.1 Graphics
