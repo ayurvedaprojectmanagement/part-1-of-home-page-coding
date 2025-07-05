@@ -1,1 +1,1 @@
-# part-of-home-page-coding
+# Part 1 of Home Page Coding
