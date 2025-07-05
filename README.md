@@ -4,6 +4,7 @@
 - ### 1.1 Forum
 
 ## 2. Google Play
+- ### 2.1 Graphics
 
 ## 3. Windows
 
