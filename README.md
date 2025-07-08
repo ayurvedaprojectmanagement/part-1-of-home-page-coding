@@ -1,4 +1,5 @@
-# Part 1 of Home Page Coding
+# Part 1 of Home Page Coding (beta)
+
 
 ## Phase 1: Setting Up Backend Environment
 ### 1. Web
@@ -14,4 +15,3 @@
 ## Phase 3: First NPC
 
 ## Phase 4: Building and Deploying
-
